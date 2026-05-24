@@ -178,7 +178,7 @@ with gr.Blocks(
     4. The top 3 predictions are shown with confidence percentages
 
     **Dataset:** [PlantVillage on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)  
-    **GitHub:** [github.com/YOUR_USERNAME/crop-disease-detector](https://github.com)
+    **GitHub:** [github.com/nlalye/crop-disease-detector](https://github.com)
     """)
 
 # Run locally: python app.py → opens at http://127.0.0.1:7860
